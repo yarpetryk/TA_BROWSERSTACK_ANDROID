@@ -1,0 +1,17 @@
+username: qateam_ps08P5
+accessKey: mLF2Exvwi11P7sqpHpWs
+projectName: BrowserStack Samples
+buildName: Android -> browserstack build
+buildIdentifier: '#${BUILD_NUMBER}'
+framework: pytest
+app: bs://5a37f37eb690d48e7b9c6fe712a0b642848096b5
+platforms:
+  - deviceName: Samsung Galaxy S22
+    osVersion: 12.0
+    platformName: android
+parallelsPerPlatform: 1
+browserstackLocal: true
+source: pytest-appium-browserstack:sample-sdk:v1.0
+debug: false
+networkLogs: false
+consoleLogs: errors

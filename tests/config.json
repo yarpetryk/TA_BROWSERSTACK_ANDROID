@@ -1,0 +1,12 @@
+{
+  "username_incorrect": "qwertypowerfox.energy",
+  "username_invalid": "qwerty@powerfox.energy",
+  "user_password_invalid": "abcd1234",
+  "user_password_no_match": "abcd5678",
+  "user_password_short": "Abc123",
+  "package_name": "energy.powerfox.ovag.stage",
+  "config_env_file": "./config.env",
+  "path_to_apk": "./powerfox.apk",
+  "language": "de",
+  "locale": "DE"
+}

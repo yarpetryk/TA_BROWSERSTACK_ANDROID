@@ -1,0 +1,4 @@
+collected 48 items / 44 deselected / 4 selected
+
+tests/test_login.py clearing app data of com.powerfox.powerfox is 
+F

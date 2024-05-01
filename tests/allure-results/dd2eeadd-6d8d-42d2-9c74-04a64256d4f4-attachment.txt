@@ -1,0 +1,3 @@
+INFO     browserstack_sdk.__init__:__init__.py:1665 Completed setup!
+INFO     browserstack_sdk.__init__:__init__.py:1665 Completed setup!
+INFO     browserstack_sdk.__init__:__init__.py:1665 Completed setup!

@@ -1,0 +1,2 @@
+/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/site-packages/appium/webdriver/webdriver.py:245: DeprecationWarning: desired_capabilities argument is deprecated and will be removed in future versions. Use options instead.
+  warnings.warn(

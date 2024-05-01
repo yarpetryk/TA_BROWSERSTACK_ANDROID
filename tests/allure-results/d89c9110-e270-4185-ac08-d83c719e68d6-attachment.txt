@@ -1,0 +1,4 @@
+clearing app data of energy.powerfox.ovag.stage is Success
+
+app cache cleared...
+Pflichtfeld is found

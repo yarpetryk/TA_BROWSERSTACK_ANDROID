@@ -1,0 +1,3 @@
+clearing app data of energy.powerfox.ovag.stage is 
+app cache cleared...
+Ihr Nutzername muss eine E-Mail-Adresse sein. is found

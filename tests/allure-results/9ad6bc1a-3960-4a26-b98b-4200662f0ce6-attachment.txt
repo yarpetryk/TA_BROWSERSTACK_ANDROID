@@ -1,0 +1,6 @@
+Before
+clearing app data of energy.powerfox.ovag.stage is 
+app cache cleared...
+After
+Inside
+Pflichtfeld is found

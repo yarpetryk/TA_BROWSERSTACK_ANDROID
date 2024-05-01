@@ -1,0 +1,3 @@
+[32mINFO    [0m browserstack_sdk.__init__:__init__.py:1665 Completed setup!
+[32mINFO    [0m browserstack_sdk.__init__:__init__.py:1665 Completed setup!
+[32mINFO    [0m browserstack_sdk.__init__:__init__.py:1665 Completed setup!

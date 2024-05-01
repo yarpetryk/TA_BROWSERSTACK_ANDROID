@@ -1,0 +1,4 @@
+ is found
+ is found
+ is equal to 14,19
+ is equal to 1,77

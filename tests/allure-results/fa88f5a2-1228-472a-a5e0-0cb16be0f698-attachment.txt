@@ -1,0 +1,3 @@
+clearing app data of com.powerfox.powerfox is 
+app cache cleared...
+okkkkk
